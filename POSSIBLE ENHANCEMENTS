@@ -1,0 +1,5 @@
+POSSIBLE ENHANCEMENTS
+
+1. Dockerise the service 
+2. This won't scale if the website is too large, so what we can do is provide two API's one POST API to request to crawl and another GET API to get the crawled result. When fired GET we can make system to share the crawl status ( Done / in progress) . 
+3. Also crawl by Depth instead of crawling to any depth having limit will be more cleaner. 
