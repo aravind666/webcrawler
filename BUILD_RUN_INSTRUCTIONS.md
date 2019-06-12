@@ -8,6 +8,8 @@ BUILD_RUN_INSTRUCTIONS
 
 The above command spins up the application. 
 
+This spins up the instance, and exposes the API to crawl, Below is the sample API request Either you can use browser or postman. 
 
+http://localhost:8080/crawler/sitemap/v1?url=aravindhu.com 
  
 
